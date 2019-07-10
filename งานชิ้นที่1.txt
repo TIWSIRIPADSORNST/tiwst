@@ -1,0 +1,30 @@
+﻿<HTML>
+<HEAD>
+<TITLE> ยินดีต้อนรับสู่เว็บไซต์ </TITLE>
+</HEAD>
+<BODY>
+<CENTER> <font face = "angsana new" size = "8" color = "blue"> ประวัติส่วนตัว</font> </CENTER>
+<br>
+<CENTER> <IMG SRC = "st2.jpg"> </CENTER>
+<font size = "1" color = "#666666">ชื่อ : นางสาวศิริภัสสร เวชกามา</font> </br>
+<font size = "1.5" color = "#999999">ชื่อเล่น : ติว </font> </br>
+<font size = "2" color = "#0000CC">ชื่อบิดา : นายพงษ์ศักดิ์ นิ่มน้อย </font> </br>
+<font size = "2.5" color = "blue">ชื่อมารดา : นางสาวศิริรักษ์ เวชกามา </font> </br>
+<font size = "3" color = "#000066">ที่อยู่ : 33/1 หมู่ 7 ต.ท่าเรือ อ.ท่าเรือ จ.พระนครศรีอยุธยา 13130</font>  </br>
+<font size = "3.5" color = "#FF0000">โทรสัพท์ : 0898050776</font>  </br>
+<font size = "4" color = "#990000">สถานศึกษาโรงเรียนท่าเรือ "นิตยานุกูล" </font> </br>
+<font size = "4.5" color = "#FF3300">อายุ : 16 </font> </br>
+<font size = "5" color = "#00FF00">ชอบสีอะไร : ดำ แดง ฟ้า </font> </br>
+<font size = "5.5" color = "#336600">ชอบกินน้ำอะไร : ช็อคโกแลตเย็น เค้กช็อคโกแลต  </font></br>
+<font size = "6" color = "#339933">ชอบกินอะไร : ข้าวขาหมู</font> </br>
+<font size = "6.5" color = "#FFFF00">เกิดวันที่ : 28 สิงหาคม พ.ศ. 2546 </font></br>
+<font size = "7 color = "#FFFFCC">ครอบครัวมีกี่คน : 3</font> </br>
+<font size = "7.5" color = "brown">ย้ายมาจากโรงเรียนอะไร : โรงเรียนมาลาสวรรค์พิทยา</font> </br>
+<font size = "8" color = "purple">ตอนนี้อยู่กับใคร : แม่บุญธรรม</font> </br>
+<font size = "8.5" color = "orange">กีฬาที่ชอบ : แบตมินตัน </font></br>
+<font size = "9" color = "silver">สัตว์ที่ชอบ : สุนัข </font></br>
+<font size = "9.5" color = "pink">ช่องทางติดต่อ : FB : Siripadsorn Srps ID : srpswkm-2808 </font> </br>
+<font size = "10" color = "gold">มหาลัยที่อยากเข้า : ม.เชียงใหม่ </font></br>
+<font size = "10.5" color = "crimson">อาชีพที่อยากเป็น : เภสัช</font> </br>
+</BODY>
+</HTML>
